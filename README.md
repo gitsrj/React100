@@ -9,7 +9,7 @@ Welcome to **React100**, a repository dedicated to my journey of learning and bu
 Each project is organized in its own numbered folder, making it easy to navigate and find specific projects.
 
 - `01gradient-generator`
-- `02other-project` (coming soon)
+- `02other-project` 
 - ...and so on.
 
 ---
