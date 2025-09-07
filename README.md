@@ -28,7 +28,7 @@ You have two simple options to view and interact with any project in this reposi
 
     a. **Clone the repository:**
        ```bash
-       git clone [https://github.com/gitsrj/React100.git](https://github.com/gitsrj/React100.git)
+       git clone https://github.com/gitsrj/React100.git
        ```
 
     b. **Navigate to the desired project folder:**
